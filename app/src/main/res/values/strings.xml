@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">everykanapp</string>
+    <string name="cargagastos">Registrar gasto</string>
+    <string name="listargastos">Listar gastos</string>
 </resources>
